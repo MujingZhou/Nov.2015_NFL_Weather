@@ -1,0 +1,2 @@
+Mash-up of weather information(openweathermap api) and NFL match information(sportradar NFL api). After outputting such information, the service will also output information that tells the user whether the weather condition is suitable for going watching the NFL game.
+I implemented both the History and Caching features in my web service and the weather api is a real-time web service.
